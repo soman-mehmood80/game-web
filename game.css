@@ -1,0 +1,41 @@
+.card-title{
+  color:rgb(50, 50, 245) ;
+}
+.card-text{
+  color: white;
+}
+.card{
+  background-color: transparent;
+  border: 1px solid white;
+  padding: 5px 5px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+img{
+  height: 300px;
+
+}
+.btn{
+  margin-top: 10px;
+  background-color: white;
+  color: black;
+}
+h5{
+  color: white;
+}
+.nav-link:hover{
+  font-size: 15px;
+}
+.nav-link{
+  transition: 0.10s;
+  color: white;
+}
+.btn{
+  transition: 0.10s;
+  border: 1px solid white;
+}
+.btn:hover{
+  background: #000;
+  color: white;
+  border: 1px solid white;
+}

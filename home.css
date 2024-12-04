@@ -1,0 +1,30 @@
+
+.heading{
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-link{
+  transition: 0.10s;
+}
+.nav-link:hover{
+  font-size: 15px;
+}
+.btn{
+  transition: 0.8s;
+  color: black;
+  background-color: white;
+}
+.btn:hover{
+background: #000;
+color: white;
+}
+
+.card{
+  margin-top: 10px;
+}
+.card img{
+  transition: 0.5s;
+}
+.card img:hover{
+  height: 350px;
+}
